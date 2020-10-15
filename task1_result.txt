@@ -1,0 +1,2 @@
+inlier points: b,d,h,f,e,
+outlier points: a,c,g,
